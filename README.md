@@ -16,7 +16,7 @@
   display: boy; 
   background: none; 
   hobby: logic thinking;
-  skill: HTML,CSS,JavaScript,PHP,Java;
+  skill: HTML,CSS,JavaScript,Laravel,Java;
 }
 ```
 
