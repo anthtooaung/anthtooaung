@@ -11,11 +11,12 @@
 
 ```css
 #monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
+  position: student; 
+  height: 180cm; 
   display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
+  background: none; 
+  hobby: logic thinking;
+  skill: HTML,CSS,JavaScript,PHP,Java;
 }
 ```
 
