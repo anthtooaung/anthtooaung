@@ -1,34 +1,22 @@
-### Hi, I'm Anthony 👋
-
-```css
-#anthtooaung {
-  position: student;
-  height: 180cm;
-  display: boy;
-  background: none;
-  hobby: logic thinking;
-  skill: HTML, CSS, JavaScript, Laravel, Java;
-}
 ```
+anthtooaung@github ~ $
+───────────────────────
 
----
+> whoami
+  Student | Web Developer | Logic Thinker
 
-**About Me**
+> cat skills.txt
+  HTML · CSS · JavaScript · Java · Laravel · PHP · Git
 
-- 🎓 Student passionate about web development
-- 🧠 I enjoy solving problems and logic-based thinking
-- 🌱 Currently learning and building with Laravel & Java
-- 📫 How to reach me: [GitHub](https://github.com/anthtooaung)
+> cat goals.txt
+  - Build things that solve real problems
+  - Get better at backend development
+  - Never stop learning
 
----
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Java` `Laravel` `PHP` `Git`
-
----
-
-**GitHub Stats**
+> uptime
+  Always learning something new.
+───────────────────────
+```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthtooaung&show_icons=true&theme=default&hide_border=true&count_private=true)
 
